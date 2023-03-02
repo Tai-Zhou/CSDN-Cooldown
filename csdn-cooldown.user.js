@@ -7,8 +7,8 @@
 // @match        https://*.blog.csdn.net/*
 // @icon         https://g.csdnimg.cn/static/logo/favicon32.ico
 // @icon64       https://g.csdnimg.cn/static/logo/favicon64.ico
-// @updateURL    https://raw.githubusercontent.com/Tai-Zhou/CSDN-Cooldown/main/csdn-cooldown.js
-// @downloadURL  https://raw.githubusercontent.com/Tai-Zhou/CSDN-Cooldown/main/csdn-cooldown.js
+// @updateURL    https://raw.githubusercontent.com/Tai-Zhou/CSDN-Cooldown/main/csdn-cooldown.user.js
+// @downloadURL  https://raw.githubusercontent.com/Tai-Zhou/CSDN-Cooldown/main/csdn-cooldown.user.js
 // @supportURL   https://github.com/Tai-Zhou/CSDN-Cooldown
 // @run-at       document-start
 // @grant        none

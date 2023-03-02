@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSDN 背景图片屏蔽
-// @namespace    http://tampermonkey.net/
-// @version      0.2
+// @namespace    https://github.com/Tai-Zhou/CSDN-Cooldown
+// @version      0.3
 // @description  屏蔽 CSDN 的 gif 背景，让 CPU 休息休息。
 // @author       tai-zhou
 // @match        https://*.blog.csdn.net/*
